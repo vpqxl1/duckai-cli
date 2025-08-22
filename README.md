@@ -22,7 +22,7 @@ A command-line interface for searching DuckDuckGo directly from your terminal.
 
 Run the CLI with:
 ```bash
-node duck-cli.js
+node duck.js
 ```
 
 Once running, you can:
